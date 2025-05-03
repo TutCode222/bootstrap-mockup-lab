@@ -1,4 +1,15 @@
-.card:hover {
-    background-color: #f8f9fa; /* light gray */
-    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+/* Body Font Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
+  
+  /* Navbar Styling */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+
+  /* Hero Section */
+
+
+
+  
